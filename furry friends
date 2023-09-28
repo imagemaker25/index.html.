@@ -1,0 +1,8 @@
+<script src="https://app.chatgptbuilder.io/webchat/plugin.js"></script>
+<script>
+ktt10.setup({
+    "pageId":"1985291",
+    "headerTitle":"Furry Friends Center",
+    "color":"#006dff"
+});
+</script>
